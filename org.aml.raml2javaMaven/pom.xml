@@ -57,7 +57,7 @@
 		</plugins>
 	</build>
 	<parent>
-		<groupId> com.onpositive.aml</groupId>
+		<groupId>com.onpositive.aml</groupId>
 		<artifactId>org.aml.parent</artifactId>
 		<version>0.13-SNAPSHOT</version>
 		<relativePath>..</relativePath>
